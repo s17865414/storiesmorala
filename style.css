@@ -1,0 +1,20 @@
+body {
+  font-family: Arial;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 100%;
+  background: black;
+  padding: 20px;
+}
+
+button {
+  display: block;
+  margin: 10px;
+  color: white;
+  background: gray;
+}
